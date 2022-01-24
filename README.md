@@ -4,10 +4,10 @@ Esse Script é voltado para consumir a API do zabbix e criar grupos de hosts.
 
 Preencha as Variaveis:
 
- Preencha com Usuário do Zabbix
+Preencha com Usuário do Zabbix.
 ZABBIX_USER=""
 
- Preencha com a senha do Zabbix
+ Preencha com a senha do Zabbix.
 ZABBIX_PASS=""
 
  Mude "ip" para o ip do zabbix-web
